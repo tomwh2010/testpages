@@ -5,7 +5,7 @@ date:   2022-04-13 12:41:38 +0200
 categories: jekyll update
 ---
 
-Sources for this site can be found here [Click here][sources]
+Sources for this site can be found here [Click here][sources].
 
 You will find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
